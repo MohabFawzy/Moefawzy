@@ -1,14 +1,14 @@
-### Hi there 👋, my name is Mohab Mohamed Fawzy
+### Hi There 👋, My Name Is Mohab Mohamed Fawzy
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohab+Mohamed!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!;+I'm+Mohab!;" />
 </h1>
 
 # 💫 About Me:
 <p align="left">
-  <img align="right" height="150" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b7611vvbrgopvwkb35z7bbe6zt4sq0pql474iexze7rqp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-Hi, I'm a software engineer with a passion for creating innovative solutions. My GitHub profile showcases some of my latest projects, highlighting my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.
-<br>✨ Creating bugs since 2023<br>📚 Currently learning Dart & Flutter<br>🎲 Fun fact: I make memes
-</p>
+  <img align="right" height="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b7611vvbrgopvwkb35z7bbe6zt4sq0pql474iexze7rqp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+Hi, I'm a software engineer with a passion for creating innovative solutions. My GitHub profile showcases some of my latest projects, highlighting my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.</p>
+
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Dart & Flutter<br>🎲 Fun fact: I make memes</p>
 
 
 # 💻 Languages and Tools:
@@ -36,8 +36,8 @@ Hi, I'm a software engineer with a passion for creating innovative solutions. My
 
 # Contact:
 <div class="container" style="height: 400px;">
-
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/mohab-mohamed-fawzy)
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:mohabmohameed5204@gmail.com)
+    
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:mohabmohameed5204@gmail.com) &ensp;
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/mohab-mohamed-fawzy) &ensp;
 [![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://www.facebook.com/MohabMohamedFawzy22)
 </div>
