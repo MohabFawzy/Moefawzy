@@ -1,3 +1,4 @@
+### Hi there 👋, my name is Mohab Mohamed Fawzy
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohab+Mohamed!;" />
 </h1>
@@ -5,8 +6,10 @@
 # 💫 About Me:
 <p align="left">
   <img align="right" height="150" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b7611vvbrgopvwkb35z7bbe6zt4sq0pql474iexze7rqp&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-Hi, I'm a software engineer with a passion for creating innovative solutions. My GitHub profile showcases some of my latest projects, highlighting my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.</p>
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently learning Dart & Flutter<br>🎲 Fun fact: I make memes</p>
+Hi, I'm a software engineer with a passion for creating innovative solutions. My GitHub profile showcases some of my latest projects, highlighting my skills in coding, problem-solving, and collaboration. I'm always striving to learn and grow as a developer, and I'm excited about the possibilities that lie ahead.
+<br>✨ Creating bugs since 2023<br>📚 Currently learning Dart & Flutter<br>🎲 Fun fact: I make memes
+</p>
+
 
 # 💻 Languages and Tools:
 
